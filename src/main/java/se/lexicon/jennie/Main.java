@@ -1,5 +1,6 @@
-package se.lexicon.jennie;public class Main {
+package se.lexicon.jennie;
+
+public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
     }
 }

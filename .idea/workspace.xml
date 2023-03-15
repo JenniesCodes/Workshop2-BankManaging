@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="55ab1c60-94b6-48e4-a5f7-8688701855fd" name="Changes" comment="" />
+    <list default="true" id="55ab1c60-94b6-48e4-a5f7-8688701855fd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/lexicon/jennie/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/jennie/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/lexicon/jennie/BankAccountDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/jennie/BankAccountDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/lexicon/jennie/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/jennie/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/lexicon/jennie/CustomerDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/jennie/CustomerDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/lexicon/jennie/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/jennie/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/se/lexicon/jennie/BankAccountDatabaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/se/lexicon/jennie/BankAccountDatabaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/se/lexicon/jennie/BankAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/se/lexicon/jennie/BankAccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/se/lexicon/jennie/CustomerDatabaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/se/lexicon/jennie/CustomerDatabaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/se/lexicon/jennie/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/se/lexicon/jennie/CustomerTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2M3gwid4nnf1wzsS3vF4wmY6kX0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +46,110 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="se.lexicon.jennie" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CustomerTest">
+    <configuration name="BankAccountDatabaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Workshop2-BankManaging" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.lexicon.jennie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.lexicon.jennie" />
+      <option name="MAIN_CLASS_NAME" value="se.lexicon.jennie.BankAccountDatabaseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Workshop2-BankManaging" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.lexicon.jennie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.lexicon.jennie" />
+      <option name="MAIN_CLASS_NAME" value="se.lexicon.jennie.BankAccountTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerDatabaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Workshop2-BankManaging" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.lexicon.jennie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.lexicon.jennie" />
+      <option name="MAIN_CLASS_NAME" value="se.lexicon.jennie.CustomerDatabaseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerDatabaseTest.should_NotRemoveCustomer_When_CustomerNotFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Workshop2-BankManaging" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.lexicon.jennie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.lexicon.jennie" />
+      <option name="MAIN_CLASS_NAME" value="se.lexicon.jennie.CustomerDatabaseTest" />
+      <option name="METHOD_NAME" value="should_NotRemoveCustomer_When_CustomerNotFound" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Workshop2-BankManaging" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.lexicon.jennie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.lexicon.jennie" />
+      <option name="MAIN_CLASS_NAME" value="se.lexicon.jennie.CustomerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CustomerTest" />
+        <item itemvalue="JUnit.CustomerDatabaseTest" />
+        <item itemvalue="JUnit.BankAccountTest" />
+        <item itemvalue="JUnit.BankAccountDatabaseTest" />
+        <item itemvalue="JUnit.CustomerDatabaseTest.should_NotRemoveCustomer_When_CustomerNotFound" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +160,16 @@
       <updated>1677001925045</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
